@@ -1,0 +1,3 @@
+Para fazer esses exercícios, é recomendado que vejamos o algoritmo de FENWICK TREE: 
+
+https://cp-algorithms.com/data_structures/fenwick.html
