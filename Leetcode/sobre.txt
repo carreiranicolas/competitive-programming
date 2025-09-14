@@ -1,0 +1,4 @@
+Aqui nesta pasta estarão todos os exercícios feitos na plataforma Leetcode (https://leetcode.com/problemset/). Lembrando que para treinar
+para maratonas, o leetcode talves não seja o ideal, pois seus problemas não são no formato que são os problemas da maratona. No entanto, o 
+leetcode pode auxiliar bastante na prática das estruturas de dados especificamente, além de ser legal para praticar para problemas técnicos
+de entrevista de emprego. 
